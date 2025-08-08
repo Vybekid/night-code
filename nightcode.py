@@ -391,7 +391,7 @@ d.forward(20)
 d.pensize(7)
 curve2(1,80)
 
-# second eye
+
 d.right(54)
 d.penup()
 d.forward(115)
